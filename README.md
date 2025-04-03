@@ -25,19 +25,19 @@ Here you’ll find a collection of my projects. Each one demonstrates my passion
 Click on the project titles to explore the details and the code behind them! 💻👇
 
 ## 🔥 Featured Projects:
-Project 1: AI-Powered Voting System 🗳️
+### Project 1: AI-Powered Voting System 🗳️
 
 Description: A voting platform that prevents election violence by using machine learning algorithms to detect fraudulent activities.
 
 Tech Stack: Python, Flask, TensorFlow
 
-Project 2: Personal Finance Tracker 💰
+### Project 2: Personal Finance Tracker 💰
 
 Description: A web application that helps you manage your expenses and investments, with real-time analytics.
 
 Tech Stack: React, Node.js, MongoDB
 
-Project 3: Face Recognition App 🤳
+###  Project 3: Face Recognition App 🤳
 
 Description: A facial recognition system that can verify identities for security purposes.
 
